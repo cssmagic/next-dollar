@@ -5,7 +5,7 @@
 ## Concept
 
 ```js
-// now
+// present
 $('#wrapper li.active').find('a').text('Active Item').show()
 ```
 
